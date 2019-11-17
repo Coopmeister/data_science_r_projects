@@ -11,8 +11,12 @@ Note: I am new to R and this was my first time to use the "tabulizer" package, s
 
 IMPORTANT:  The correct version of JAVA must be loaded before using Tabulizer. 
 
-#########7 Days of Animation:  Linkedin Challenge to use various tools to create animated visualizations###########
+#########Project 2:  7 Days of Animation:  Linkedin Challenge to use various tools to create animated visualizations###########
 
 Day 1: Tableau
 Day 2: Tableau
 Day 3: R
+
+#########Project 3:  Scraping table listing most popular brands in the world from HTML###########
+Approached by someone on Linkedin who asked for help with a project to scrape a specific web page.
+
