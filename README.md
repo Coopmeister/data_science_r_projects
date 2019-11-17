@@ -19,4 +19,6 @@ Day 3: R
 
 #########Project 3:  Scraping table listing most popular brands in the world from HTML###########
 Approached by someone on Linkedin who asked for help with a project to scrape a specific web page.
+Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html for the zip file containing html file used in R script.
+
 
