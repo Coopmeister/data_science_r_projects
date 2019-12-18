@@ -1,5 +1,5 @@
 # data_science_r_projects
-Contains examples of projects I've done using R
+Contains examples of personal projects I've done using R
 
 #########Project 1:  Criticially Endangered Species Trends##########
 
