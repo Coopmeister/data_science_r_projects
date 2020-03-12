@@ -27,7 +27,7 @@ covid <- coronavirus
 # Check out the data
 covid %>% glimpse()
 
-# Wrangle data to look at running total cases in U.s. by type since March 1
+# Wrangle data to look at running total cases in U.s. by type between March 1 and March 12, 2020
 covid_us <- covid %>%
    rename(country = Country.Region) %>%
    filter(country == "US",) %>%
@@ -43,8 +43,8 @@ covid_us <- covid %>%
    filter(date %>% between(ymd("2020-03-01"), right = ymd("2020-03-13")))
 
 
-
-
+# Create barplot using Seaborn to show running total of cases by type in U.S
 g = sns$barplot(x = "date", y = "running_total", hue = "type", data = covid_us)
 
+# Use matplotlib to display chart
 plt$show(g)
