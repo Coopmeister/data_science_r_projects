@@ -21,5 +21,10 @@ Day 3: R
 Approached by someone on Linkedin who asked for help with a project to scrape a specific web page.
 Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html for the zip file containing html file used in R script.
 
-#########Project 4:  Use ballr and esquisse packages to illustrate Kobe Bryant stats for #dailycoding on Linkedin Day 26 of 366
+#########Project 4:  Use ballr and esquisse packages to illustrate Kobe Bryant stats for #dailycoding on Linkedin Day 26 of 366#########
+
+#########Project 5:  Practice with Reticulate to use SNS for barplot showing running total of Coronavirus cases in U.S. between
+3/1/2020 and 3/12/2020#########
+
+
 
