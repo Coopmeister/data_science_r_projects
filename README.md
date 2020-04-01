@@ -30,3 +30,5 @@ Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html
 
 #########Project 7:  Play around with package to create memes #########
 
+#########Project 8:  Scrape Coronavirus stats from Worldometer site #########
+
