@@ -26,5 +26,7 @@ Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html
 #########Project 5:  Practice with Reticulate to use SNS for barplot showing running total of Coronavirus cases in U.S. between
 3/1/2020 and 3/12/2020#########
 
+#########Project 6:  Pull U.S. Covid-19 cases from csv file (data from usafacts.org) and summarize data for latest date for creating map in Tableau #########
+
 
 
