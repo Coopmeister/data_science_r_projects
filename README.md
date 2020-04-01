@@ -34,3 +34,5 @@ Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html
 
 #########Project 9:  Played around with tidyquery package to show how to see R equivalent of SQL code #########
 
+#########Project 10:  Baylor Scott and White_CFPB Analysis Markdown document, cfpb_analysis_draft and complaints.csv uploaded to save work done for Baylor Scott and White interview case study #########
+
