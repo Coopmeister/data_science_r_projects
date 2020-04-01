@@ -28,7 +28,9 @@ Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html
 
 #########Project 6:  Pull U.S. Covid-19 cases from csv file (data from usafacts.org) and summarize data for latest date for creating map in Tableau #########
 
-#########Project 7:  Play around with package to create memes #########
+#########Project 7:  Played around with package to create memes #########
 
 #########Project 8:  Scrape Coronavirus stats from Worldometer site #########
+
+#########Project 9:  Played around with tidyquery package to show how to see R equivalent of SQL code #########
 
