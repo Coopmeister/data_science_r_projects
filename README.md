@@ -36,3 +36,4 @@ Note:  Refer to the file "The World's Most Valuable Brands List - Forbes(1).html
 
 #########Project 10:  Baylor Scott and White_CFPB Analysis Markdown document, cfpb_analysis_draft and complaints.csv uploaded to save work done for Baylor Scott and White interview case study #########
 
+#########Project 11:  Helped Linkedin connection with exporting data as CSV to Google Drive and Google Sheets #########
